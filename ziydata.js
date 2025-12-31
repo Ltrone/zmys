@@ -8,6 +8,6 @@ var ziydata = {
 	},{
 		'id': 1,
 		'p': '画江湖之天罡',
-		'video':'https://vip.dytt-hot.com/20250129/23197_a05b8b20/index.m3u8'
+		'video':'https://vv.jisuzyv.com/play/zbqWOE7e/index.m3u8'
 	}]
 }
