@@ -4,10 +4,10 @@ var ziydata = {
 	'rows': [{
 		'id': 0,
 		'p': '流浪地球2',
-		'video':'https://vv.jisuzyv.com/play/neg6lR6d/index.m3u8'
+		'video':'https://vip.dytt-live.com/20250505/5821_926c11cc/index.m3u8'
 	},{
 		'id': 1,
 		'p': '画江湖之天罡',
-		'video':'https://vv.jisuzyv.com/play/zbqWOE7e/index.m3u8'
+		'video':'https://vip.dytt-hot.com/20250129/23197_a05b8b20/index.m3u8'
 	}]
 }
