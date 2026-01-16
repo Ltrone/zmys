@@ -5,9 +5,9 @@ var gong = {
 		'imgs': '/lun.png'
 	}, {
 		'id': 1,
-		'imgs': '/2.jpg
+		'imgs': '/2.png'
 	}, {
 		'id': 2,
-		'imgs': '/3.jpg
+		'imgs': '/3.png'
 	}]
 }
