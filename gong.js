@@ -5,6 +5,6 @@ var gong = {
 		'imgs': '/lun.png'
 	},{
 		'id': 1,
-		'imgs': '/2.jpg'
+		'imgs': '/110404.76523023_o.jpg
 	}]
 }
