@@ -11,5 +11,10 @@ var sydata = {
 		'img': 'http://img.cjyun.org/a/10008/202208/8f8e5ecad80ae1aed00813c9d56d96da.jpeg',
 		'h5': '2023',
 		'p': '画江湖之天罡',
+	},{
+		'id': 2,
+		'img': 'http://img5.mtime.cn/mt/2025/09/19/102929.61768985_1280X720X2.jpg',
+		'h5': '2025',
+		'p': '震耳欲聋',
 	}]
 }
