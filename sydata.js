@@ -8,12 +8,12 @@ var sydata = {
 		'p': '流浪地球2',
 	},{
 		'id': 1,
-		'img': 'http://img.cjyun.org/a/10008/202208/8f8e5ecad80ae1aed00813c9d56d96da.jpeg',
+		'img': 'https://pic.baike.soso.com/ugc/baikepic2/0/20240506150504-30610451_jpeg_690_1227_164955.jpg/0_90',
 		'h5': '2023',
 		'p': '画江湖之天罡',
 	},{
 		'id': 2,
-		'img': 'http://img5.mtime.cn/mg/2025/09/26/131703.97040540.jpg',
+		'img': 'https://pic.baike.soso.com/ugc/baikepic2/0/20250919101206-401030760_jpg_690_965_730528.jpg/0_90',
 		'h5': '2025',
 		'p': '震耳欲聋',
 	}]
