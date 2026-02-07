@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>追梦影视-web-s260125-beta05</title>
+  <style type="text/css" media="all">
+    * {
+      margin: 0;
+      -webkit-tap-highlight-color: transparent;
+      user-select: none;
+    }
+    
+    body {
+      background-color: #111214;
+    }
+    #top {
+      width: 100vw;
+      height: 70px;
+      background: #1c1d1f;
+      box-shadow: 0 0 10px snow;
+      display: flex;
+      align-items: center;
+    }
+    
+    #toph2 {
+      color: #eeeeee;
+      margin-left: 20px;
+      font-size: 28px;
+    }
+    
+    #vid{
+      width: 100vw;
+      margin:0 auto;
+    }
+    #vid video{
+      width: 90vw;
+      height: 200px;
+      margin-left: 16px;
+    }
+    
+    h5{
+     color: #eeeeee;
+     margin-top: 16px;
+    }
+  </style>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="top">
+    <h2 id="toph2"></h2>
+  </div>
+  <div id="vid">
+    <p style="margin-top: 10px;text-align: center;color: #eeeeee;">暗处抢先看，由追梦科技有限公司提供</p>
+    <h5>第九集</h5>
+    <video src="https://160.202.237.139:8899/m3u8.php?vkey=TWpPN3VBblF3Mk1neXpVRGtwQXNiaTFYRTlTdlVKdmN1M1FSZjFnYTJ3emVNRHRNNGVwYm1maUlRUG4vZk1zTXVRVW5RdHJFUVM4PQ==.m3u8" height="" width="" preload="none" autoplay="autoplay" controls controlsList="nodownload"></video>
+    <hr />
+    <h5>第十集</h5>
+    <video src="https://160.202.237.139:8899/m3u8.php?vkey=M2tEOHE4UThHbzJqV0R5TEwwRkl3WGpLZ1JHcW5VaXRiVWlFVHpPd1VUUnBTT0V6WTcvY3hmaUlRUG4vZk1zTTRLaEwveE41VUhFPQ==.m3u8" height="" width="" preload="none" autoplay="autoplay" controls controlsList="nodownload"></video>
+  
+  </div>
+  <!-- Project -->
+  <script src="main.js"></script>
+  <script type="text/javascript" charset="utf-8">
+    var toph2 = document.getElementById('toph2')
+    toph2.textContent = '追梦影视'
+  </script>
+</body>
+</html>
