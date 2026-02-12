@@ -753,5 +753,21 @@
       "p": "国语",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=S2hQT2VocmQ4a0gxc0J3TUkzOXhtK1psaHhwUHpjYXZrSjExRjhhSG1lMlErY28ycG1YcmJlM3ExMXF1RnhwUTBXckE5MVE0eDBvPQ==.m3u8"
     }]
+  }, {
+    "id": "24",
+    "p": "熊出没之重启未来",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=cGNHa3VlYThRUjkvMmY3VUFzS1YrUzgxUXFUZTZkRzhBNWRQbkhpb0NBNndmbmd0N0w5cWsrM3ExMXF1RnhwUWt6aWliZ012Y1ZZPQ==.m3u8"
+    }]
+  }, {
+    "id": "25",
+    "p": "雄狮少年2",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=R0dxRXZLRzRkQjRvSWppNGc4UDZTZU5xTW9ZQzZqZVhaUDJOVFhTWU9tTGNPV1EyWkFRd1F1M3ExMXF1RnhwUWNJdnFNT0RMSkNvPQ==.m3u8"
+    }]
   }]
 }
