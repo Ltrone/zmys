@@ -769,5 +769,21 @@
       "p": "国语",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=R0dxRXZLRzRkQjRvSWppNGc4UDZTZU5xTW9ZQzZqZVhaUDJOVFhTWU9tTGNPV1EyWkFRd1F1M3ExMXF1RnhwUWNJdnFNT0RMSkNvPQ==.m3u8"
     }]
+  }, {
+    "id": "26",
+    "p": "锦绣未央",
+    "video": [{
+      "id": "0",
+      "p": "1",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=QXJSbTVwVzgyekZRVzFJdnB0OVRzdEJ6TzlNaStQRzZhZVJndHg2NkxmSXNXV2NucjZ5Ylh1M3ExMXF1RnhwUW9pc0IyT0pKU2xzPQ==.m3u8"
+    }, {
+      "id": "1",
+      "p": "2",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=NlZuaUN6Wkd0RE1LNkNRS1hxM0QvWno2cHpuUmVEb1JjbjBoTHZDUlZ1WEszZFVnMTQ3UXh1M3ExMXF1RnhwUUNyVmpVQ2RpcDE0PQ==.m3u8"
+    }, {
+      "id": "2",
+      "p": "3",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=N2s1SUFWVmo3ZTFWZzk4YUQyTmtseGF6Vzh1QmZVT3lHcUV2dGJGSG8rTityZnVxZG4wRU91M3ExMXF1RnhwUVZoNVAvck1SMGZVPQ==.m3u8"
+    }]
   }]
 }
