@@ -1041,5 +1041,13 @@
       "p": "12",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=Z2QxS1U1VDU2UHRwcStoaUpNdXoxU2h2VjJBblpZQmY4eHovb2ZoMFBSMWVHWGhwbENuK3l1M3ExMXF1RnhwUUFBbHBYQTZ2KytjPQ==.m3u8"
     }]
+  }, {
+    "id": "28",
+    "p": "画江湖之不良人第八季",
+    "video": [{
+      "id": "1",
+      "p": "预告片",
+      "src": "https://ltrone.github.io/zmys/hjhzblr8.mp4"
+    }]
   }]
 }
