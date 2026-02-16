@@ -1213,5 +1213,13 @@
       "p": "40",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=NHdiMzkyaEpyeXg4S3gyb1F0bWlRMUFOd2gyaytPZS9WTVI4UzJnamhHYjZHRG5ldm5OUTRNOWx4SUlSQ1lDVHdJVWJBN1BrZEFBPQ==.m3u8"
     }]
+  }, {
+    "id": "100000",
+    "p": "除夕快乐",
+    "video": [{
+      "id": "0",
+      "p": "除夕日",
+      "src": "https://ltrone.github.io/zmys/chux0216.mp4"
+    }]
   }]
 }
