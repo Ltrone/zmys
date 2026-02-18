@@ -2,31 +2,7 @@
   "code": "200",
   "key": "gong",
   "rows": [{
-    "id": "30",
-    "imgs": "/2026cx.gif"
-  }, {
-    "id": "29",
-    "imgs": "/smshu.jpeg"
-  }, {
-    "id": "27",
-    "imgs": "/hjhzbl6.jpeg"
-  }, {
-    "id": "25",
-    "imgs": "/xssn2.jpeg"
-  }, {
-    "id": "20",
-    "imgs": "/llsxyg.jpeg"
-  }, {
-    "id": "21",
-    "imgs": "/njzxg.png"
-  }, {
-    "id": "19",
-    "imgs": "/sdxie.jpeg"
-  }, {
-    "id": "23",
-    "imgs": "/neim.jpg"
-  }, {
-    "id": "17",
-    "imgs": "/zzj3.png"
+    "id": "0",
+    "imgs": "https://gips2.baidu.com/it/u=779848523,4055175154&fm=3074&app=3074&f=JPEG?w=1278&h=689&type=normal&func="
   }]
 }
