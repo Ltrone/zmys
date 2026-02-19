@@ -1477,5 +1477,37 @@
       "p": "国语",
       "src": "https://cdn.yzzy33-play.com/20260219/8215_1e0feeaf/index.m3u8"
     }]
+  }, {
+    "id": "47",
+    "p": "疾速追杀",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=dTNtYy9DNytTczc5Q0RsN2tsdC9WSGdLaEdKaVFhdjA2M1YvSE54Zkx2RS9qNExmR2NTa3hzOWx4SUlSQ1lDVEdFSVlTL3FYcnY0PQ==.m3u8"
+    }]
+  }, {
+    "id": "48",
+    "p": "疾速追杀2",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=OGNOM0FHTFRHVnNYYXh2ZHFUU2pGK0VpUHJCN09XQzFjUWJSckd4QjNiNFN1VTFxVy8ydWc4OWx4SUlSQ1lDVGtVM0lqbFI1aEZnPQ==.m3u8"
+    }]
+  }, {
+    "id": "49",
+    "p": "疾速追杀3",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=UEJPMS85WlVXdzhYSDZRcHdMN3NNbXBSSXQrMk84T2d3SmVMWm5udTBmdkwvaXllZ2R1cEc4OWx4SUlSQ1lDVDlOajBLTFpEZUw4PQ==.m3u8"
+    }]
+  }, {
+    "id": "50",
+    "p": "疾速追杀4",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=akk2a2huLzVVVXBKY2ZPbExaYWU3VkN0NnNYWG5pMFBWU05IZ0VhZUdzK0RaMFJXdzRTTXJNOWx4SUlSQ1lDVE9UK1RwUFg1dEdnPQ==.m3u8"
+    }]
   }]
 }
