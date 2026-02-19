@@ -1469,5 +1469,13 @@
       "p": "国语",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=enlnTjZmV1NtNXk3bzJQS29MUGhXamtsVEtNTnJNWVBOdzgwbnJZeDNya2ErN1FFeU5lRDZNOWx4SUlSQ1lDVEp1SzVyUzdzaGtBPQ==.m3u8"
     }]
+  }, {
+    "id": "46",
+    "p": "东北警察故事3",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://cdn.yzzy33-play.com/20260219/8215_1e0feeaf/index.m3u8"
+    }]
   }]
 }
