@@ -1513,5 +1513,21 @@
       "p": "外语",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=akk2a2huLzVVVXBKY2ZPbExaYWU3VkN0NnNYWG5pMFBWU05IZ0VhZUdzK0RaMFJXdzRTTXJNOWx4SUlSQ1lDVE9UK1RwUFg1dEdnPQ==.m3u8"
     }]
+  }, {
+    "id": "51",
+    "p": "太平间闹鬼事件",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=aDdXK3I1ZVl6V3VndHVNZTZLVjBHeWJKU0FZbTBQZjVhdEtHZGNhRVhOZmxSYWJhZUhHRHBjOWx4SUlSQ1lDVHRObkpBSXhTVkpnPQ==.m3u8"
+    }]
+  }, {
+    "id": "52",
+    "p": "太平间闹鬼事件2",
+    "video": [{
+      "id": "0",
+      "p": "外语",
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=MzJEbjAveWdFSndUN3VkdDYzSDZIOGdiczNCb0dRTHRMNVpsZW5UcUVzRGg5d0dMUm9Gb3Q4OWx4SUlSQ1lDVHF6bnNGOGROUWNvPQ==.m3u8"
+    }]
   }]
 }
