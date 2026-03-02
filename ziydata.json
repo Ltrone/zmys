@@ -1561,5 +1561,21 @@
       "p": "国语",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=NEM5UllPV2p1ZlhwWS9YaVNpb3M0Zkk3RGNlODVIZGovU01QelRSczdQanByaTVaYytrWWJzOWx4SUlSQ1lDVGRmV3ErcUtUVWZJPQ==.m3u8"
     }]
+  }, {
+    "id": "57",
+    "p": "哆啦A梦:伴我同行",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://vip.dytt-film.com/20250126/2530_55a988df/index.m3u8"
+    }]
+  }, {
+    "id": "58",
+    "p": "哆啦A梦:伴我同行2",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://vip.dytt-film.com/20250121/974_4311359e/index.m3u8"
+    }]
   }]
 }
