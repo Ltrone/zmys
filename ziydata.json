@@ -1567,7 +1567,7 @@
     "video": [{
       "id": "0",
       "p": "国语",
-      "src": "https://vip.dytt-film.com/20250126/2530_55a988df/index.m3u8"
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=dEJScmhKVFQ1ZTQ0R1FKM1M1bi9PbGkrbmw1ajUzamp6dXVIM1Y1TXVjM29yV2dKRGFyN2JLSU5USFpGc3h3VnZjR2NaK3FBemljPQ==.m3u8"
     }]
   }, {
     "id": "58",
@@ -1575,7 +1575,7 @@
     "video": [{
       "id": "0",
       "p": "国语",
-      "src": "https://vip.dytt-film.com/20250121/974_4311359e/index.m3u8"
+      "src": "https://160.202.237.139:8899/m3u8.php?vkey=b3BJOUcrSjJ3aFNkQjNZcDE4SzZzbzlyWmpKQW5Femg5VnhqYm9BR3M1ZSswTm1BWTNzOThLSU5USFpGc3h3VnBtdmtJYThQcm8wPQ==.m3u8"
     }]
   }]
 }
