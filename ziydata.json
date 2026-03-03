@@ -1587,7 +1587,7 @@
     "video": [{
       "id": "0",
       "p": "国语",
-      "src": "https://160.202.237.139:8899/m3u8.php?vkey=UlUwWmtnc2kxTFBmQlIyUTRlTDBLZ0lKUjlOQS8ydHZ1azJKRGtKYTU2VzlmSWpaalpsL1o2SU5USFpGc3h3Vi9FdURCMC9KdVNFPQ==.m3u8"
+      "src": "https://v2-zj-sxcm.kwaicdn.com/bs3/video-hls/5193213471720049591_b7c1e7f1f93370ff_8217_hlsfv6HighV5.m3u8?ftt=R&x-kcdn-pid=12021&kwai-not-alloc=self-cdn&Aecs=172.17.5.156&ocid=100000625&ss=vpm"
     }]
   }, {
     "id": "60",
