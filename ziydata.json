@@ -136,6 +136,10 @@
       "id": "10",
       "p": "十一",
       "src": "https://160.202.237.139:8899/m3u8.php?vkey=cUFUc1VZS3poVDhsdlFIUEo2OXpzVWhVM3AvaW9tYi95K0hXQ29GNUl0a3VGUDFLTDhEQ2VNOWx4SUlSQ1lDVFZ3bVZGbEFyK2wwPQ==.m3u8"
+    }, {
+      "id": "11",
+      "p": "十二",
+      "src": "https://vip.ffzy-plays.com/20260225/50890_fbe5e3ae/index.m3u8"
     }]
   }, {
     "id": "12",
@@ -1576,6 +1580,22 @@
       "id": "0",
       "p": "国语",
       "src": "https://vip.ffzy-play6.com/20221205/9817_635fda4f/index.m3u8"
+    }]
+  }, {
+    "id": "59",
+    "p": "熊出没之熊心归来",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://vip.ffzy-online1.com/20230725/42501_1353fe35/index.m3u8"
+    }]
+  }, {
+    "id": "60",
+    "p": "匿杀",
+    "video": [{
+      "id": "0",
+      "p": "国语",
+      "src": "https://vip.ffzy-video.com/20260227/38432_eefe7f43/index.m3u8"
     }]
   }]
 }
